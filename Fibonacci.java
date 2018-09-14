@@ -22,8 +22,7 @@ public class Guilherme {
         for (int i = 0; i < valor; i++) {
             aux = F1;
             F1 = F+F1;
-            F = aux;
-        //Por favor ignore essas aspas kkk , só para deixar bonito    
+            F = aux;   
         System.out.println(F);
         }System.out.println("-------------");
     }
